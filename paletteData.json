@@ -1,0 +1,366 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "id": "2.1.1",
+                    "name": "DistThresholdCHOPx64.dll",
+                    "path": "\\gadzety\\DistThresholdCHOPx64.dll",
+                    "type": "file"
+                },
+                {
+                    "id": "2.1.2",
+                    "name": "DistThresholdCHOPx86.dll",
+                    "path": "\\gadzety\\DistThresholdCHOPx86.dll",
+                    "type": "file"
+                },
+                {
+                    "id": "2.1.3",
+                    "name": "distTresholdCHOP.tox",
+                    "path": "\\gadzety\\distTresholdCHOP.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.1.4",
+                    "name": "paintbrush.tox",
+                    "path": "\\gadzety\\paintbrush.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.1.5",
+                    "name": "particlesGpu.tox",
+                    "path": "\\gadzety\\particlesGpu.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.1",
+            "name": "gadzety",
+            "path": "\\gadzety",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.2.1",
+                    "name": "container_container_approach.tox",
+                    "path": "\\output_setup\\container_container_approach.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.2.2",
+                    "name": "container_layout_TOP_approach.tox",
+                    "path": "\\output_setup\\container_layout_TOP_approach.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.2.3",
+                    "name": "container_TOP_approach.tox",
+                    "path": "\\output_setup\\container_TOP_approach.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.2.4",
+                    "name": "displaySetup_2containers.tox",
+                    "path": "\\output_setup\\displaySetup_2containers.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.2.5",
+                    "name": "displaySetup_TOPcontainer.tox",
+                    "path": "\\output_setup\\displaySetup_TOPcontainer.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.2",
+            "name": "output_setup",
+            "path": "\\output_setup",
+            "type": "directory"
+        },
+        {
+            "id": "2.3",
+            "name": "paletteData.json",
+            "path": "\\paletteData.json",
+            "type": "file"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.4.1",
+                    "name": "base1.tox",
+                    "path": "\\setup\\base1.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.2",
+                    "name": "cacheUi.tox",
+                    "path": "\\setup\\cacheUi.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.3",
+                    "name": "cacheUi2.tox",
+                    "path": "\\setup\\cacheUi2.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.4",
+                    "name": "midi.tox",
+                    "path": "\\setup\\midi.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.5",
+                    "name": "osc.tox",
+                    "path": "\\setup\\osc.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.4",
+            "name": "setup",
+            "path": "\\setup",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.5.1",
+                    "name": "TD_ColorRemixer.tox",
+                    "path": "\\tools\\TD_ColorRemixer.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.5",
+            "name": "tools",
+            "path": "\\tools",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.6.1",
+                    "name": "CHOPinstances.tox",
+                    "path": "\\visuals\\CHOPinstances.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.2",
+                    "name": "circle_of_boxes.tox",
+                    "path": "\\visuals\\circle_of_boxes.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.3",
+                    "name": "circle_of_boxes1.tox",
+                    "path": "\\visuals\\circle_of_boxes1.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.4",
+                    "name": "faux_refraction.tox",
+                    "path": "\\visuals\\faux_refraction.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.6",
+            "name": "visuals",
+            "path": "\\visuals",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.7.1",
+                    "name": "arduinoCommunication.tox",
+                    "path": "\\_old_arduino\\arduinoCommunication.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.2",
+                    "name": "arduino_sample.tox",
+                    "path": "\\_old_arduino\\arduino_sample.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.7",
+            "name": "_old_arduino",
+            "path": "\\_old_arduino",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.8.1",
+                    "name": "M2_OscillationFigures_M_2_5_02.tox",
+                    "path": "\\_old_GenerativeDesign\\M2_OscillationFigures_M_2_5_02.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.8.2",
+                    "name": "M3.tox",
+                    "path": "\\_old_GenerativeDesign\\M3.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.8",
+            "name": "_old_GenerativeDesign",
+            "path": "\\_old_GenerativeDesign",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.9.1",
+                    "name": "volumetric_lighting.tox",
+                    "path": "\\_old_myImageFilters\\volumetric_lighting.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.9",
+            "name": "_old_myImageFilters",
+            "path": "\\_old_myImageFilters",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.10.1",
+                    "name": "kinect.tox",
+                    "path": "\\_old_nowe\\kinect.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.10.2",
+                    "name": "kinectYaleRagan.tox",
+                    "path": "\\_old_nowe\\kinectYaleRagan.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.10.3",
+                    "name": "openPTrack.tox",
+                    "path": "\\_old_nowe\\openPTrack.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.10.4",
+                    "name": "patternGenerator.tox",
+                    "path": "\\_old_nowe\\patternGenerator.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.10",
+            "name": "_old_nowe",
+            "path": "\\_old_nowe",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.11.1",
+                    "name": "LEDdrivingSolutionBareBones.tox",
+                    "path": "\\_old_SerialLEDtoAnalyze\\LEDdrivingSolutionBareBones.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.11.2",
+                    "name": "LEDPixels.tox",
+                    "path": "\\_old_SerialLEDtoAnalyze\\LEDPixels.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.11.3",
+                    "name": "serialArduinoOK.tox",
+                    "path": "\\_old_SerialLEDtoAnalyze\\serialArduinoOK.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.11.4",
+                    "name": "serialArduinoOK1.tox",
+                    "path": "\\_old_SerialLEDtoAnalyze\\serialArduinoOK1.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.11.5",
+                    "name": "serialArduinoOK2.tox",
+                    "path": "\\_old_SerialLEDtoAnalyze\\serialArduinoOK2.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.11.6",
+                    "name": "serialArduinoOK3.tox",
+                    "path": "\\_old_SerialLEDtoAnalyze\\serialArduinoOK3.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.11.7",
+                    "name": "simpleLEDmappingWorkflow.tox",
+                    "path": "\\_old_SerialLEDtoAnalyze\\simpleLEDmappingWorkflow.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.11.8",
+                    "name": "simplLED.tox",
+                    "path": "\\_old_SerialLEDtoAnalyze\\simplLED.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.11",
+            "name": "_old_SerialLEDtoAnalyze",
+            "path": "\\_old_SerialLEDtoAnalyze",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.12.1",
+                    "name": "basicRender.tox",
+                    "path": "\\_old_tox\\basicRender.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.12.2.1",
+                            "name": "perspectiveKinect.tox",
+                            "path": "\\_old_tox\\kinect\\perspectiveKinect.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.12.2",
+                    "name": "kinect",
+                    "path": "\\_old_tox\\kinect",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.12.3",
+                    "name": "TD_ColorRemixer.tox",
+                    "path": "\\_old_tox\\TD_ColorRemixer.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.12",
+            "name": "_old_tox",
+            "path": "\\_old_tox",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.13.1",
+                    "name": "textureSampling.tox",
+                    "path": "/glazovWorkshop/textureSampling.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.13",
+            "name": "glazovWorkshop",
+            "path": "/glazovWorkshop",
+            "type": "directory"
+        }
+    ],
+    "id": "2",
+    "localRoot": "app.userPaletteFolder",
+    "name": "My Components",
+    "palette": "My Components",
+    "path": "app.userPaletteFolder",
+    "type": "directory"
+}
