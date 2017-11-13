@@ -85,12 +85,6 @@
         {
             "children": [
                 {
-                    "id": "2.4.1",
-                    "name": "base1.tox",
-                    "path": "\\setup\\base1.tox",
-                    "type": "file"
-                },
-                {
                     "id": "2.4.2",
                     "name": "cacheUi.tox",
                     "path": "\\setup\\cacheUi.tox",
@@ -113,6 +107,36 @@
                     "name": "osc.tox",
                     "path": "\\setup\\osc.tox",
                     "type": "file"
+                },
+                {
+                    "id": "2.4.6",
+                    "name": "getIP.tox",
+                    "path": "\\setup/getIP.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.7",
+                    "name": "kinect.tox",
+                    "path": "\\setup/kinect.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.8",
+                    "name": "slidersWithPresets.tox",
+                    "path": "\\setup/slidersWithPresets.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.9",
+                    "name": "controlPanelWithPresets.tox",
+                    "path": "\\setup/controlPanelWithPresets.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.10",
+                    "name": "toggleSliders.tox",
+                    "path": "\\setup/toggleSliders.tox",
+                    "type": "file"
                 }
             ],
             "id": "2.4",
@@ -126,6 +150,12 @@
                     "id": "2.5.1",
                     "name": "TD_ColorRemixer.tox",
                     "path": "\\tools\\TD_ColorRemixer.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.5.2",
+                    "name": "recordMovie.tox",
+                    "path": "\\tools/recordMovie.tox",
                     "type": "file"
                 }
             ],
@@ -158,6 +188,24 @@
                     "id": "2.6.4",
                     "name": "faux_refraction.tox",
                     "path": "\\visuals\\faux_refraction.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.5",
+                    "name": "particlesGpu.tox",
+                    "path": "\\visuals/particlesGpu.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.6",
+                    "name": "renderingInstances2.tox",
+                    "path": "\\visuals/renderingInstances2.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.7",
+                    "name": "particlesFlowfield_2.tox",
+                    "path": "\\visuals/particlesFlowfield_2.tox",
                     "type": "file"
                 }
             ],
@@ -349,11 +397,72 @@
                     "name": "textureSampling.tox",
                     "path": "/glazovWorkshop/textureSampling.tox",
                     "type": "file"
+                },
+                {
+                    "id": "2.13.2",
+                    "name": "beatDetect.tox",
+                    "path": "/glazovWorkshop/beatDetect.tox",
+                    "type": "file"
                 }
             ],
             "id": "2.13",
             "name": "glazovWorkshop",
             "path": "/glazovWorkshop",
+            "type": "directory"
+        },
+        {
+            "children": [],
+            "id": "2.14",
+            "name": "sketches",
+            "path": "/sketches",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.15.1",
+                    "name": "motionBlur.tox",
+                    "path": "/imageFilters/motionBlur.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.15.2",
+                    "name": "Swaggy_Bokeh_v1_0.tox",
+                    "path": "/imageFilters/Swaggy_Bokeh_v1_0.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.15",
+            "name": "imageFilters",
+            "path": "/imageFilters",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.16.1",
+                    "name": "fbm_warping.tox",
+                    "path": "/Generators/fbm_warping.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.16",
+            "name": "Generators",
+            "path": "/Generators",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.17.1",
+                    "name": "spinning.tox",
+                    "path": "/Techniques/spinning.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.17",
+            "name": "Techniques",
+            "path": "/Techniques",
             "type": "directory"
         }
     ],
