@@ -41,33 +41,21 @@
         {
             "children": [
                 {
-                    "id": "2.2.1",
-                    "name": "container_container_approach.tox",
-                    "path": "\\output_setup\\container_container_approach.tox",
-                    "type": "file"
-                },
-                {
-                    "id": "2.2.2",
-                    "name": "container_layout_TOP_approach.tox",
-                    "path": "\\output_setup\\container_layout_TOP_approach.tox",
-                    "type": "file"
-                },
-                {
-                    "id": "2.2.3",
+                    "id": "2.2.7",
                     "name": "container_TOP_approach.tox",
-                    "path": "\\output_setup\\container_TOP_approach.tox",
+                    "path": "\\output_setup/container_TOP_approach.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.2.4",
-                    "name": "displaySetup_2containers.tox",
-                    "path": "\\output_setup\\displaySetup_2containers.tox",
+                    "id": "2.2.8",
+                    "name": "container_container_approach.tox",
+                    "path": "\\output_setup/container_container_approach.tox",
                     "type": "file"
                 },
                 {
-                    "id": "2.2.5",
-                    "name": "displaySetup_TOPcontainer.tox",
-                    "path": "\\output_setup\\displaySetup_TOPcontainer.tox",
+                    "id": "2.2.9",
+                    "name": "basicVJsetup.tox",
+                    "path": "\\output_setup/basicVJsetup.tox",
                     "type": "file"
                 }
             ],
@@ -94,12 +82,6 @@
                     "id": "2.4.3",
                     "name": "cacheUi2.tox",
                     "path": "\\setup\\cacheUi2.tox",
-                    "type": "file"
-                },
-                {
-                    "id": "2.4.4",
-                    "name": "midi.tox",
-                    "path": "\\setup\\midi.tox",
                     "type": "file"
                 },
                 {
@@ -136,6 +118,18 @@
                     "id": "2.4.10",
                     "name": "toggleSliders.tox",
                     "path": "\\setup/toggleSliders.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.11",
+                    "name": "midiXoneK2.tox",
+                    "path": "\\setup/midiXoneK2.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.4.12",
+                    "name": "midiXoneK3.tox",
+                    "path": "\\setup/midiXoneK3.tox",
                     "type": "file"
                 }
             ],
@@ -457,6 +451,18 @@
                     "id": "2.17.1",
                     "name": "spinning.tox",
                     "path": "/Techniques/spinning.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.2",
+                    "name": "ruttEtra.tox",
+                    "path": "/Techniques/ruttEtra.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.3",
+                    "name": "SlitScan.tox",
+                    "path": "/Techniques/SlitScan.tox",
                     "type": "file"
                 }
             ],
